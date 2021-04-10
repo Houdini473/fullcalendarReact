@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Houdini473/fullcalendarReact#readme",
   "dependencies": {
-    "@houdini473/common": "^1.0.0",
+    "@houdini473/common": "^1.0.1",
     "tslib": "^2.0.3"
   },
   "peerDependencies": {
