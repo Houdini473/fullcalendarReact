@@ -3,6 +3,13 @@
   "version": "1.0.1",
   "description": "",
   "main": "dist/main.cjs.js",
+  "module": "dist/main.js",
+  "types": "dist/main.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "sideEffects": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,7 +35,7 @@
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
-    "@fullcalendar/daygrid": "file:../daygrid",
+    "@houdini473/daygrid": "^1.0.1",
     "@rollup/plugin-babel": "^5.0.0",
     "@rollup/plugin-commonjs": "^11.1.0",
     "@rollup/plugin-json": "^4.0.3",
