@@ -1,0 +1,19 @@
+{
+  "name": "@houdini473/react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houdini473/fullcalendarReact.git"
+  },
+  "author": "Jacob March",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houdini473/fullcalendarReact/issues"
+  },
+  "homepage": "https://github.com/Houdini473/fullcalendarReact#readme"
+}
